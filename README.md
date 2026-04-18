@@ -2,8 +2,6 @@
 
 hey 👋
 
-probably coding rn
-or fixing something i broke 5 mins ago
+I like making things from scratch and then questioning all my life decisions halfway through.
 
-i build things sometimes
-some of them even work
+Big fan of clean code, small fan of bugs (they don’t feel the same )
